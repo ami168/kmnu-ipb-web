@@ -35,3 +35,4 @@ next-env.d.ts
 
 # raw source photos (already optimized in public/assets/)
 aset web kmnu ipb/
+*.bat
